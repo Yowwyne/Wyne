@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<title> CHOCO FLAVOR </title>
+<ul>
+
+                 <li><a href="file:///C:/Users/BSIT-3E/Desktop/BIT%202%20-%20A%20DAY/ALWYNE,%20LUCERO%20BIT%20CT%202A-DAY/HTML/NOTEPAD/wyne.htm">BACK TO MAIN PAGE</a></li>
+<ul>
+<body>
+
+<img src="C:\Users\BSIT-3E\Desktop\BIT 2 - A DAY\ALWYNE, LUCERO BIT CT 2A-DAY\HTML\NOTEPAD\download (2).jpeg"  style="width : 500px; height: 500px">
+<h1> Price = Php 300 </h1>
+<h1> Details <h1>
+<h1> Sweet Choco flavor with M&M nips <h1>
+
+<img src="C:\Users\BSIT-3E\Desktop\BIT 2 - A DAY\ALWYNE, LUCERO BIT CT 2A-DAY\HTML\NOTEPAD\download (2).jpeg  style="width : 500px; height: 500px">
+</body>
+</head>
